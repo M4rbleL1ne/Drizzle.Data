@@ -1,2 +1,1 @@
-<APPLYING EFFECTS>                                                            Press TAB to abort
-1. ->Slag
+<APPLYING EFFECTS>                                                Press TAB (VANILLA) / TAB + Z + R (DROUGHT) / TAB + X + C (DRY) to abort1. Melt2. ->Super Melt
